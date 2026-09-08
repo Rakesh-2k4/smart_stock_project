@@ -1,0 +1,32 @@
+[
+    {
+        "sale_id": "S001",
+        "product_id": "P101",
+        "product_name": "Wireless Mouse",
+        "quantity": 5,
+        "selling_price": 800.0,
+        "total_amount": 4000.0,
+        "profit": 1500.0,
+        "date_time": "2026-09-02 14:14:56"
+    },
+    {
+        "sale_id": "S002",
+        "product_id": "P101",
+        "product_name": "Wireless Mouse",
+        "quantity": 2,
+        "selling_price": 800.0,
+        "total_amount": 1600.0,
+        "profit": 600.0,
+        "date_time": "2026-09-02 15:11:52"
+    },
+    {
+        "sale_id": "S003",
+        "product_id": "P201",
+        "product_name": "Laptop Stand",
+        "quantity": 5,
+        "selling_price": 1800.0,
+        "total_amount": 9000.0,
+        "profit": 3000.0,
+        "date_time": "2026-09-02 21:44:24"
+    }
+]

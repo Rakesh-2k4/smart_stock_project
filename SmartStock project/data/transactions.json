@@ -1,0 +1,38 @@
+[
+    {
+        "transaction_id": "T001",
+        "product_id": "P101",
+        "transaction_type": "STOCK IN",
+        "quantity": 5,
+        "previous_stock": 23,
+        "new_stock": 28,
+        "date_time": "2026-09-02 20:08:16"
+    },
+    {
+        "transaction_id": "T002",
+        "product_id": "P102",
+        "transaction_type": "STOCK IN",
+        "quantity": 5,
+        "previous_stock": 3,
+        "new_stock": 8,
+        "date_time": "2026-09-02 21:43:13"
+    },
+    {
+        "transaction_id": "T003",
+        "product_id": "P201",
+        "transaction_type": "STOCK OUT",
+        "quantity": 8,
+        "previous_stock": 30,
+        "new_stock": 22,
+        "date_time": "2026-09-02 21:43:46"
+    },
+    {
+        "transaction_id": "T004",
+        "product_id": "P201",
+        "transaction_type": "STOCK OUT",
+        "quantity": 5,
+        "previous_stock": 22,
+        "new_stock": 17,
+        "date_time": "2026-09-02 21:44:24"
+    }
+]

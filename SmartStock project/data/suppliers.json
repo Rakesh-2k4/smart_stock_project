@@ -1,0 +1,34 @@
+[
+    {
+        "supplier_id": "S101",
+        "name": "Global Tech Solutions",
+        "company": "Global Tech Solutions Pvt Ltd",
+        "email": "globaltechsolutions@gmail.com",
+        "phone": "9876543210",
+        "address": "Bangalore"
+    },
+    {
+        "supplier_id": "SUP003",
+        "name": "Tech World",
+        "company": "Tech World Company",
+        "email": "techworldcompany@gmail.com",
+        "phone": "7896543210",
+        "address": "bfsewglfcuiahewigfyewcthbrbgytrgfbsndiu"
+    },
+    {
+        "supplier_id": "SUP004",
+        "name": "Techno World",
+        "company": "Techno World Company",
+        "email": "technoworldcompany@gmail.com",
+        "phone": "9876532140",
+        "address": "kshfclbgnhoibhbhbugeyrhrjfkndjbdvhuaeurhb93iwnrv"
+    },
+    {
+        "supplier_id": "SUP101",
+        "name": "Digital Supplies",
+        "company": "6579232697",
+        "email": "digitalsupplies@gmail.com",
+        "phone": "8765432196",
+        "address": "kegfuijnbfehwgfueoqsnwjbcewutCJIUBWFHUGREGFYUEWFV"
+    }
+]
